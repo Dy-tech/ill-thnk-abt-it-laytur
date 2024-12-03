@@ -1,5 +1,6 @@
 {
     "name": "ILL THNK ABT IT LAYTUR",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
